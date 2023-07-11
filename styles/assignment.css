@@ -113,3 +113,79 @@ font-size: 18px;
 font-weight: 400;
 line-height: 30px;
 }
+/*flower section*/
+.flower-title{
+    text-align: center;
+    margin-top: 178px;
+}
+.flower-img{
+    display: flex;
+   
+}
+
+#one{
+    background: rgba(167, 33, 98, 0.15);
+padding: 110px 78px 0px 75px; 
+border-radius: 300px 300px 0px 0px;
+}
+.flower-img-container{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    gap: 24px;
+}
+#two{
+    border-radius: 300px 300px 0px 0px;
+background: rgba(5, 151, 160, 0.15);
+padding: 117px 47px 51px 47px;
+}
+#three{
+    border-radius: 300px 300px 0px 0px;
+background: rgba(71, 125, 17, 0.15);
+padding: 67px 75px 0px 75px;
+}
+.flower-under-text{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 24px;
+display: flex;
+font-weight: 700;
+line-height: 35px;
+text-decoration-line: underline;
+justify-content: center;
+
+}
+#one-text{
+    padding-right: 350px;
+}
+#two-text{
+    padding-right: 307px;
+}
+#three-text{
+    padding-right: 5px;
+}
+#b-one{
+    padding-bottom: 48px;
+    padding-top: 0px;
+}
+#b-two{padding-bottom: 0px;}
+/*about us section8*/
+.about-us-text-container{
+    text-align: center;
+}
+.about-us{
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    margin: 128px 0px;
+    padding: 128px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+#about-img{
+    width: 318px;
+height: 420px;
+
+}
