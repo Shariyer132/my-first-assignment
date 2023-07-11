@@ -1,0 +1,92 @@
+/*banner styles*/
+.banner{
+    padding: 50px 240px 0px 240px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:rgba(229, 84, 115, 0.10);
+}
+.banner-img{
+   width: 635px;
+   height: 800px;
+}
+.banner-title{
+    color: #272727;
+font-family: Lato;
+font-size: 80px;
+font-weight: 800;
+margin-bottom: 32px;
+}
+.banner-description{
+    color: rgba(39, 39, 39, 0.60);
+font-family: Lato;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+margin-bottom: 32px;
+}
+.banner-btn{
+    border-radius: 8px;
+background: #E55473;
+color: #FFF;
+font-family: Lato;
+font-size: 20px;
+font-weight: 700px;
+padding: 20px 43px;
+border-color: #FFF;
+}
+.banner-content{
+    max-width: 650px;
+}
+/*hot deal section*/
+.hot-deal{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:rgba(229, 84, 115, 0.10);
+    margin: 128px 0px;
+    padding: 100px 430px 100px 395px;
+}
+.hot-title{
+    color: #272727;
+font-family: Lato;
+font-size: 40px;
+font-weight: 800;
+}
+.hot-title-off{
+    color:  #E55473;;
+}
+/*insta section*/
+.insta-head{
+    text-align: center;
+}
+.insta-description{
+   margin-bottom: 48px;
+}
+.insta-image-container{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    gap: 24px;
+  }
+  /*deal section*/
+  .deal{
+    text-align: center;
+  }
+  .deal-image{
+    background-image: url(../styles/Rectangle\ 9.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    margin: 128px;
+    padding-bottom: 123px;
+    padding-top: 122px;
+  }
+  .input-email{
+    width: 700px;
+height: 64px;
+
+  }
+
+
+  
